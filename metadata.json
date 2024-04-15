@@ -1,7 +1,7 @@
 {
-  "name": "TRON",
-  "website": "https://tron.network/",
-  "description": "EigenLayer copy pasta on TRON network soon",
+  "name": "TRONode",
+  "website": "",
+  "description": "TRONode is a solo operator with max uptime",
   "logo": "https://raw.githubusercontent.com/Diery28/eigenlayer/main/logo.png",
-  "twitter": "https://twitter.com/justinsuntron"
+  "twitter": ""
 }
